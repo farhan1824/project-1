@@ -48,6 +48,70 @@
     font-family: 'Lato', sans-serif;
 }
 /* total-head-area ends here */
+/* bonus-round-1 starts */
+.bonus-rounds{
+    height: 80vh;
+    background-color: white;
+    color: black;
+}
+.text-part{
+    text-align: center;
+    padding-top: 80px;
+}
+.img-part{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 45px;
+
+}
+.background-bonus-style{
+    width: 464px;
+    height: 538px;
+    border-radius: 200px 200px 0px 0px ;
+    justify-content: center;
+    margin-left: 120px;
+    padding-top: 30px;
+
+    
+}
+/* (42px) */
+.ul-texts{
+ display: flex;
+ 
+ text-align: center;
+}
+.one{
+    margin-left: 300px;
+    width: max-content;
+    border-bottom: 1px solid black;
+}
+.two{
+   margin-left: 550px;
+   border-bottom: 1px solid black;
+}
+.three{
+   margin-left: 550px;
+   border-bottom: 1px solid black;
+}
+.bonus-1{
+    background-color: rgba(167, 33, 98, 0.15);
+    padding-left: 80px;
+    padding-top: 20px;
+    
+}
+.bonus-2{
+
+    background-color: rgba(5, 151, 160, 0.15);
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.bonus-3{
+
+    background-color: rgba(71, 125, 17, 0.15);
+    padding-left: 80px;
+}
+
 /* first-part-of-the-main starts */
 /* background-design */
 .first-part-of-the-main{
