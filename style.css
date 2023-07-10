@@ -2,6 +2,12 @@
     padding: 0px;
     margin: 0px;
 }
+/* bonus round e lagte pare */
+/* .icon img{
+    width: 60px;
+    height: 60px;
+    border-radius: 32px;
+} */
 /* total-head-area starts here */
 /* header background */
 .total-head-area{
@@ -102,6 +108,7 @@
     background-repeat: no-repeat;
     margin-left: 228px;
     box-shadow: 12px 10px;
+    border-radius: 0px;
 
 }
 .search input{
@@ -124,4 +131,20 @@
 }
 .sokh{
    padding-left:86px;
+}
+.last-part-of-the-prg{
+    height: 500px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+.last-part-of-the-prg h1{
+    padding-bottom: 12px;
+    padding-top: 128px;
+}
+.last-part-of-the-prg small {
+    color:rgba(255, 255, 255, 0.40);
+    font-family: 'Lato', sans-serif;
+
 }
