@@ -42,3 +42,35 @@
     font-family: 'Lato', sans-serif;
 }
 /* total-head-area ends here */
+/* first-part-of-the-main starts */
+/* background-design */
+.first-part-of-the-main{
+    height: 550px;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    margin-top: 120px;
+}
+/* rose-image-style */
+.right-img-area{
+    height:250px ;
+    width:590px ;
+    padding-top: 50px;
+
+    /* background-color: rgba(229, 84, 115, 0.10);
+    height: 90vh;
+    width: auto;
+    display: flex;
+    justify-content: space-around; */
+}
+.left-text-area{
+    /* padding-top: ; */
+        padding-top: 250px;
+    font-size: 20px;
+    text-align: center;
+}
+/* optional jdi lage */
+/* .margin-edit{
+    margin: 20px;
+} */
+/* first-part-of-the-main ends */
