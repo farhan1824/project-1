@@ -168,9 +168,9 @@
 }
 .last-sreach-iamge{
     background-image: url("./last-background-image.png");
-    height: 90vh;
+    height: 75vh;
     background-repeat: no-repeat;
-    margin-left: 228px;
+    margin-left: 320px;
     box-shadow: 12px 10px;
     border-radius: 0px;
 
@@ -211,4 +211,64 @@
     color:rgba(255, 255, 255, 0.40);
     font-family: 'Lato', sans-serif;
 
+}
+.hard-write{
+    text-align: center;
+    color: black;
+    padding-bottom: 30px;
+    font-family: 'Agdasima', sans-serif;
+}
+.own-div{
+    height: 120vh;
+    width: auto;
+    background-color: bisque;
+    color: black;
+    padding-left: 200px;
+    margin-bottom: 200px;
+ 
+}
+.first-pic{
+    display: flex;
+}
+.first-pic img{
+    max-width: 100%;
+    max-height: 100%;
+    height: 210px;
+    width: 210px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 9px #640000;
+    gap: 40px;
+}
+.first-pic h3{
+    border: 1px solid black;
+    background-color: #640000;
+    color: white;
+    width: 1210px;
+    height: 150px;
+    margin-left: 70px;
+    box-shadow: 10px 10px 9px #640000;
+    border-radius: 20px;
+    padding-top: 70px;
+    padding-left: 12px;
+}
+.mrg{
+    margin-top: 20px;
+}
+.second-pic h3{
+    
+    background-color: #E3B8C2;
+    color: black;
+    box-shadow: 10px 10px 9px #E3B8C2;
+    
+
+}
+.third-pic h3{
+    background-color: #F1CFB2;
+    color: green; 
+    box-shadow: 10px 10px 9px #F1CFB2;
+}
+.forth-pic h3{
+    background-color:#CF97E2 ;
+    color: rgb(37, 39, 138); 
+    box-shadow: 10px 10px 9px #CF97E2 ;
 }
